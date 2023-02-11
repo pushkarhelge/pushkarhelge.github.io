@@ -333,6 +333,9 @@ img {
 .home__scroll {
   display: none;
 }
+.home__scroll-end {
+  display: none;
+}
 
 .home__scroll-button {
   color: var(--first-color);
