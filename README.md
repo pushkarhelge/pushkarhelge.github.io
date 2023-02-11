@@ -14,7 +14,7 @@ Website contains:
 - Contact
 - Footer 
 
-# Check the webiste here : 
+# Check the website here : 
 https://pushkarhelge.github.io/
 
 If u liked my website and the code was useful to you, <br>
