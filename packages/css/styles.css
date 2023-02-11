@@ -525,7 +525,7 @@ img {
 }
 
 .skills__js {
-  width: 60%;
+  width: 70%;
 }
 
 .skills__mern {
@@ -537,7 +537,7 @@ img {
 }
 
 .skills__cpp {
-  width: 75%;
+  width: 80%;
 }
 
 .skills__java {
@@ -545,7 +545,7 @@ img {
 }
 
 .skills__sql {
-  width: 60%;
+  width: 75%;
 }
 
 .skills__usml {
@@ -1210,6 +1210,9 @@ img {
     }
     .about__info {
       justify-content: space-around;
+    }
+    .about__info a{
+      color: var(--text-color);
     }
     .about__buttons {
       justify-content: center;
